@@ -18,7 +18,7 @@ To run this repo, please follow these command :
 
 3. Accessing without Token
 
-    ![Accessing without Token](img/noAuth.png "Accessing without Token")
+    ![Accessing without Token](img/noOauth.png "Accessing without Token")
 
 4. Accessing Resource With Token
 
