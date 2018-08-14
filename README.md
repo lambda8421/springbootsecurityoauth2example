@@ -16,10 +16,11 @@ To run this repo, please follow these command :
 
     ![Body Tab](img/body.png "Body Tab")
 
-3. Accessing without Token
 
-    ![Accessing without Token](img/noOauth.png "Accessing without Token")
-
-4. Accessing Resource With Token
+3. Accessing Resource With Token
 
     ![Accessing Resource with Token](img/getOauth.png "Accessing Resource with Token")
+
+4. Accessing without Token
+
+    ![Accessing without Token](img/noOauth.png "Accessing without Token")
